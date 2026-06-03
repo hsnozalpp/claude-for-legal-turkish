@@ -5,6 +5,14 @@
   },
   "plugins": [
     {
+      "name": "dernek-medeni-legal",
+      "source": "./dernek-medeni-legal",
+      "description": "Yeni modül. Türk dernekler hukuku, vakıflar ve Medeni Kanun kişiler hukuku için uyarlandı.",
+      "author": {
+        "name": "Legal Turkish Adaptation"
+      }
+    },
+    {
       "name": "commercial-legal",
       "source": "./commercial-legal",
       "description": "Uyarlandı. Türk ticari sözleşme pratiğine göre uyarlandı.",

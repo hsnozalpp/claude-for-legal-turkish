@@ -1,0 +1,8 @@
+{
+  "name": "dernek-medeni-legal",
+  "version": "1.0.0",
+  "description": "Türk dernekler hukuku, vakıflar ve Medeni Kanun kişiler hukuku için taslak ve araştırma desteği: dernek/vakıf kuruluşu, tüzük inceleme, genel kurul ve yönetim kurulu kararları, yıllık beyanname/defter uyum takibi ve kişiler hukuku araştırması. Çıktılar hukukçu incelemesine tabi taslaklardır.",
+  "author": {
+    "name": "Legal Turkish Adaptation"
+  }
+}
